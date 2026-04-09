@@ -20,10 +20,6 @@ window.onload = function () {
 
       // Oculta pantalla de carga
       document.getElementById("pantalla-carga").style.display = "none";
-
-
     }
   }, 300);
-
-
 };
