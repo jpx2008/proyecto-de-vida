@@ -15,6 +15,7 @@ const mensajes = [
   "Ahora que sabes esto, tu misión es descubrir mi misión y visión; usa A y D para moverte"
 ];
 
+
 // =======================
 // 🎮 ELEMENTOS
 // =======================
